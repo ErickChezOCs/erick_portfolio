@@ -35,3 +35,22 @@ body {
 .head{
     background-color: black;
 }
+
+#scorebox{
+    position: absolute;
+    color: white;
+    background-color: black;
+    margin-top: 25px;
+    margin-left: 555px;
+    font-size: larger;
+
+}
+#highscorebox{
+    position: absolute;
+    color: white;
+    background-color: black;
+    margin-top: 65px;
+    margin-left: 555px;
+    font-size: larger;
+
+}
