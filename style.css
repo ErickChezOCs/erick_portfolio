@@ -54,3 +54,11 @@ body {
     font-size: larger;
 
 }
+.regles {
+    position: absolute;
+    width: 250px;
+    margin-left: -250px;
+    margin-top: 25px;
+    color: white;
+    text-align: center;
+}
