@@ -1,5 +1,5 @@
-This repo holds the porfolio site with all the links to the projects i work on during training at OpenClassrooms.
-As soon as a new project is compléted It will be added here
+This repo holds the portfolio site with all the links to the projects I work on during training at OpenClassrooms.
+As soon as a new project is completed it will be added here.
 
 
 
